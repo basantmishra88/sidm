@@ -27,13 +27,13 @@
 /* home */
 #home-page{
     height: 89vh;
-    background-image: url(/pn_ph/9.jpg);
+    background-image: url(./pn_ph/9.jpg);
     background-size: cover;
     opacity: 0.9;
 }
 @media (min-width:765px) {
     #home-page{
-        background-image: url(/pn_ph/two.jpg);
+        background-image: url(./pn_ph/two.jpg);
     }
     
 }
